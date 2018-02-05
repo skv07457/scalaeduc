@@ -1,0 +1,2 @@
+# scalaeduc
+Scala Education repository
